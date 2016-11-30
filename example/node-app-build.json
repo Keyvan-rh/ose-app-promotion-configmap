@@ -37,7 +37,7 @@
         "source": {
           "type": "Git",
           "git": {
-            "uri": "http://192.168.1.15:3000/keyvan/ose-app-promotion-configmap.git"
+            "uri": "https://github.com/Keyvan-rh/ose-app-promotion-configmap.git"
           },
           "contextDir": "node-app",
           "secrets": []
